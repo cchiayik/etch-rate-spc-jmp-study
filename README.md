@@ -26,8 +26,8 @@ This case study applies **Statistical Process Control (SPC)** methods to analyze
 | File                          | Description | Link |
 |-------------------------------|-------------|------|
 | `Etch_Rate_Case_Study_Report.pdf` | Full report with analysis, charts & insights |[📥 Etch_Rate_Case_Study_Report.pdf](https://github.com/cchiayik/etch-rate-spc-jmp-study/raw/e29e534266b0b4f19dacc533ff7cdf34b3fff8ee/Etch%20Rate%20Case%20Study(Chew%20Chia%20Yik).pdf)|
-| `Etch_Rate_Data.csv`         | Raw + cleaned etch rate data from 3 lines |
-| `Etch_Rate_Analysis.jmp`      | JMP project with control charts & analysis |
+| `Etch_Rate_Data.csv`         | Raw + cleaned etch rate data from 3 lines |[Etch_Rate_Data.csv](https://github.com/cchiayik/etch-rate-spc-jmp-study/blob/main/Etch_Rate_Data.csv)
+| `Etch_Rate_Analysis.jmp`      | JMP project with control charts & analysis |[Etch_Rate_Analysis.jmp]
 | `README.md`                   | This document |
 
 ---
