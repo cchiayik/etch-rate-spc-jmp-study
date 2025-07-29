@@ -50,7 +50,7 @@ This case study applies **Statistical Process Control (SPC)** methods to analyze
    - Control Charts (X-bar & S)
    - Distribution & t-tests (CI + significance checks)
 
-> 📝 *Ensure `.xlsx` file is in the same directory for linked data*
+> 📝 *Ensure `.csv` file is in the same directory for linked data*
 
 ---
 
