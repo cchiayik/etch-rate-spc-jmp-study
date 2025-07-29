@@ -24,7 +24,7 @@ This case study applies Statistical Process Control (SPC) techniques to assess t
 | `Etch_Rate_Analysis.jmp`  | JMP project file containing statistical analysis, histograms, control charts, and 2-tailed tests |
 | `README.md`               | This readme document |
 
-
+[click here](https://github.com/cchiayik/etch-rate-spc-jmp-study/raw/e29e534266b0b4f19dacc533ff7cdf34b3fff8ee/Etch%20Rate%20Case%20Study(Chew%20Chia%20Yik).pdf)
 ---
 
 ## 🔍 Key Findings
