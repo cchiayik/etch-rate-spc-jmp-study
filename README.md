@@ -35,11 +35,11 @@ This case study applies **Statistical Process Control (SPC)** methods to analyze
 
 ## 🔍 Key Findings
 
-- ⚠️ All lines (B, C, D) failed stability tests due to **special cause variation**  
-- 📉 Mean etch rates were consistently **below the 620 Å/min target**
-- 📈 **Etch Line C** showed temporary improvement post-recalibration  
-- ❌ **Process Capability Study = Not feasible** due to unstable variation  
-- ✅ **Recommendations**: Real-time SPC, root cause analysis, Gage R&R, and follow-up DOE
+- All lines (B, C, D) failed stability tests due to **special cause variation**  
+- Mean etch rates were consistently **below the 620 Å/min target**
+- **Etch Line C** showed temporary improvement post-recalibration  
+- **Process Capability Study = Not feasible** due to unstable variation  
+- **Recommendations**: Real-time SPC, root cause analysis, Gage R&R, and follow-up DOE
 
 ---
 
@@ -55,14 +55,14 @@ This case study applies **Statistical Process Control (SPC)** methods to analyze
 
 ---
 
-## 📚 Reference
+## Reference
 
 Potcner, K. (2025). *JMP064: Variation in Semiconductor Etching Process*. SAS Institute.  
 🔗 [Official Case Study](https://www.jmp.com/en/academic/case-study-library/variation-in-semiconductor-etching-process.html)
 
 ---
 
-## 💬 Contact
+## Contact
 
 Got questions or feedback? Feel free to reach out:  
 📧 **ccyik0205@gmail.com**
