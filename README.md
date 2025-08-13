@@ -50,15 +50,14 @@ This case study applies **Statistical Process Control (SPC)** methods to analyze
    - Histograms / Boxplots for each line
    - Control Charts (X-bar & S)
    - Distribution & t-tests (CI + significance checks)
-
-> 📝 *Ensure `.csv` file is in the same directory for linked data*
+3. **Pandas code in Jupyter HTML**- open `Etch_Rate_Case_Study.ipynb` for viewing the coding, output and mechanism behind the Statistical Approach
 
 ---
 
 ## Reference
 
 Potcner, K. (2025). *JMP064: Variation in Semiconductor Etching Process*. SAS Institute.  
-🔗 [Official Case Study](https://www.jmp.com/en/academic/case-study-library/variation-in-semiconductor-etching-process.html)
+🔗 [Official Case Study](https://www.jmp.com/en/academic/case-study-library/resource-listings/view-all)
 
 ---
 
