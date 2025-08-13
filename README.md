@@ -7,11 +7,11 @@
 
 ---
 
-## ⚠️ PDF Report Access
+## PDF Report Access
 
 > **GitHub may not render large PDFs correctly.**  
 > 👉 Please download the full report directly:  
-> [📥 Etch_Rate_Case_Study_Report.pdf](https://github.com/cchiayik/etch-rate-spc-jmp-study/raw/e29e534266b0b4f19dacc533ff7cdf34b3fff8ee/Etch%20Rate%20Case%20Study(Chew%20Chia%20Yik).pdf)
+> [ Etch_Rate_Case_Study_Report.pdf](https://github.com/cchiayik/etch-rate-spc-jmp-study/raw/e29e534266b0b4f19dacc533ff7cdf34b3fff8ee/Etch%20Rate%20Case%20Study(Chew%20Chia%20Yik).pdf)
 
 ---
 
